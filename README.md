@@ -1,12 +1,10 @@
 # HanamiLKG
 
 外部アセットはプロジェクトから省いています.  
-
-実行ファイル  
+  
 https://github.com/bigdra50/HanamiLKG/releases
 
-デモ動画
-https://www.foriio.com/works/11768
+https://user-images.githubusercontent.com/38492895/119748570-1f262280-bed0-11eb-90d0-e19db274ddad.mp4
 
 # CopyRight
 UniRx Copyright (c) 2014 Yoshifumi Kawai https://github.com/neuecc/UniRx/blob/master/LICENSE
